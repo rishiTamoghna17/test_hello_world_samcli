@@ -131,8 +131,8 @@ making library - https://www.loginradius.com/blog/engineering/write-a-javascript
 
 sam init
 
-nmp run build to build the webpack 
-
-
 sam build
+
 sudo sam local start-api
+
+npm run build to build the web pack 
